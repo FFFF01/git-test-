@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 123
 666
+=======
+123
+>>>>>>> parent of abffcdd... 456
 =======
 123
 >>>>>>> parent of abffcdd... 456
